@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.env
+*.sqlite3
+.idea/
+.vscode/
+.DS_Store
